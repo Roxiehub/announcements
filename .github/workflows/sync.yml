@@ -1,0 +1,34 @@
+name: Sync from upstream (Channex) and rebrand to RoxieHub
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # τρέχει κάθε 30 λεπτά
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest announcements from Channex
+        run: |
+          curl -s -L https://raw.githubusercontent.com/ChannexIO/announcements/master/announcements.md -o announcements.md
+
+      - name: Clean up / rebrand mentions to RoxieHub
+        run: |
+          sed -i 's/channex\.io/roxiehub\.net/gI' announcements.md
+          sed -i 's/Channex/RoxieHub/gI' announcements.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "RoxieHub Bot"
+          git config user.email "bot@roxiehub.net"
+          if [ -n "$(git status --porcelain announcements.md)" ]; then
+            git add announcements.md
+            git commit -m "Sync from upstream and rebrand to RoxieHub"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          else
+            echo "No updates detected."
+          fi
