@@ -1,6 +1,6 @@
 ### October Update 🚀 (Oct 2025)
 
-New Blog Post: [Unlocking the Power of Airbnb Review Tags for Your Property](https://channex.io/blog/airbnb-review-tags-channex))
+New Blog Post: [Unlocking the Power of Airbnb Review Tags for Your Property](https://roxiehub.net/blog/airbnb-review-tags-RoxieHub))
 
 
 
@@ -14,6 +14,6 @@ New Blog Post: [Unlocking the Power of Airbnb Review Tags for Your Property](htt
 - Small Fixes
 
 #### Coming Soon
-- View Roadmap: https://feedback.channex.io/roadmap
+- View Roadmap: https://feedback.roxiehub.net/roadmap
 
-[Link to Changelog](https://docs.channex.io/changelog)
+[Link to Changelog](https://docs.roxiehub.net/changelog)
