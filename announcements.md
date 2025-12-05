@@ -8,7 +8,8 @@ New Blog Post: [New Feature: Airbnb Performance Dashbaord](https://roxiehub.net/
 #### Summary of Features
 - New Feature: Sandwich Nights (Inventory page status to show unbookable dates because of min stay)
 - New Feature: Airbnb Performance Dashboard
-- New OTA: Levart
+- New OTA Hotelrez (GDS)
+- New OTA: Levart (IBE)
 - New OTA: Gopaddi
 - New OTA: WeSpeak
 
