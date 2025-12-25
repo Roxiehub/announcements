@@ -1,17 +1,11 @@
-### November Update 🚀 (Nov 2025)
+### December Update 🚀 (Dec 2025)
 
-New Blog Post: [New Feature: Sandwich Nights Inventory Status](https://roxiehub.net/blog/sandwich-nights-unbookable-dates)
-
-New Blog Post: [New Feature: Airbnb Performance Dashbaord](https://roxiehub.net/blog/airbnb-listing-quality-dashboard)
-
+Merry Xmas and Happy New Year, hope all is well with your family and business in 2026.
 
 #### Summary of Features
-- New Feature: Sandwich Nights (Inventory page status to show unbookable dates because of min stay)
-- New Feature: Airbnb Performance Dashboard
-- New OTA Hotelrez (GDS)
-- New OTA: Levart (IBE)
-- New OTA: Gopaddi
-- New OTA: WeSpeak
+- New OTA: Klook (In Beta)
+- New OTA: Check24 (In Beta)
+- Minor Fixes
 
 #### Coming Soon
 - View Roadmap: https://feedback.roxiehub.net/roadmap
