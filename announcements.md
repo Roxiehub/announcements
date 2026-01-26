@@ -1,11 +1,12 @@
-### December Update 🚀 (Dec 2025)
-
-Merry Xmas and Happy New Year, hope all is well with your family and business in 2026.
+### January Update 🚀 (Jan 2026)
 
 #### Summary of Features
-- New OTA: Klook (In Beta)
-- New OTA: Check24 (In Beta)
-- Minor Fixes
+- Added support for subtracting the CoHost Payout amount from total for Airbnb bookings on payout setting
+- Airbnb LOS now available to all users https://help.roxiehub.net/en/articles/12052387-enable-los-with-airbnb
+- Added Channel Activate / Deactivate logs at Property Tasks
+- Added Channel Activate / Deactivate webhooks
+- Added Smoking preferences into Booking Notes for Booking.com booking
+- Improve formatting for large numbers in the Booking Interface
 
 #### Coming Soon
 - View Roadmap: https://feedback.roxiehub.net/roadmap
