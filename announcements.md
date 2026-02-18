@@ -1,12 +1,12 @@
-### January Update 🚀 (Jan 2026)
+### Febuary Update 🚀 (Feb 2026)
 
 #### Summary of Features
-- Added support for subtracting the CoHost Payout amount from total for Airbnb bookings on payout setting
-- Airbnb LOS now available to all users https://help.roxiehub.net/en/articles/12052387-enable-los-with-airbnb
-- Added Channel Activate / Deactivate logs at Property Tasks
-- Added Channel Activate / Deactivate webhooks
-- Added Smoking preferences into Booking Notes for Booking.com booking
-- Improve formatting for large numbers in the Booking Interface
+- New OTA: WeSpeak
+- New OTA: Bedshero
+- Improved API response if rate limits hit
+- Added Property Title and Property ID to missed modification emails
+- Updated UI for Webhooks and API Key section
+- Various bugfixes
 
 #### Coming Soon
 - View Roadmap: https://feedback.roxiehub.net/roadmap
