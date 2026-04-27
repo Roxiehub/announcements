@@ -1,12 +1,12 @@
-### Febuary Update 🚀 (Feb 2026)
+### April Update 🚀 (APR 2026)
 
 #### Summary of Features
-- New OTA: WeSpeak
-- New OTA: Bedshero
-- Improved API response if rate limits hit
-- Added Property Title and Property ID to missed modification emails
-- Updated UI for Webhooks and API Key section
-- Various bugfixes
+- New OTA: Bed-and-Breakfast.it
+- New OTA: Padelbound
+- New OTA: VibeLobby
+- New OTA: WigwamHolidays
+- New OTA: Tripnera
+- Added Global Webhooks
 
 #### Coming Soon
 - View Roadmap: https://feedback.roxiehub.net/roadmap
