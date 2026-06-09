@@ -1,12 +1,12 @@
-### April Update 🚀 (APR 2026)
+### June Update 🚀 (JUN 2026)
 
 #### Summary of Features
-- New OTA: Bed-and-Breakfast.it
-- New OTA: Padelbound
-- New OTA: VibeLobby
-- New OTA: WigwamHolidays
-- New OTA: Tripnera
-- Added Global Webhooks
+- New OTA: Julian Alps Booking
+- New OTA: Guirez
+- New OTA: More.com
+- New OTA: Heytrip
+- New OTA: Crewdogs
+- Booking acknowledge status icon now only checks the latest revision
 
 #### Coming Soon
 - View Roadmap: https://feedback.roxiehub.net/roadmap
